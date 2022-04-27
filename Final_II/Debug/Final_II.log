@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\37379\Desktop\Step IT Academy II\Final_II\Final_II\Source.cpp(110,34): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\37379\Desktop\Step IT Academy II\Final_II\Final_II\Source.cpp(110,49): warning C4804: '>': unsafe use of type 'bool' in operation
+  Final_II.vcxproj -> C:\Users\37379\Desktop\Step IT Academy II\Final_II\Debug\Final_II.exe
